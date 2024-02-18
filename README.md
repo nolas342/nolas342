@@ -1,0 +1,4 @@
+- 👋 Hi, I’m nour
+- 👀 I’m interested in software and hardware devellopement
+- 🌱 I’m currently learning engineering specialized in software embedded systems 
+- 📫 How to reach me : this is my personal e-mail lassouednour8@gmail.com
